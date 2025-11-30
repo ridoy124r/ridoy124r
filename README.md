@@ -6,13 +6,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am single
 
-- About Me
+About Me
 
-Hi, I’m a passionate web developer who loves building clean, user-friendly digital experiences. My current tech stack includes HTML, CSS, JavaScript, and React.js, and I enjoy turning ideas into functional interfaces that people actually enjoy using.
+Hi, I’m a passionate web developer who loves building clean, user-friendly digital experiences. On the front end, I work with HTML, CSS, JavaScript, and React.js. On the backend, I use Node.js, Express, Prisma ORM, and PostgreSQL, which helps me create full-stack applications with solid structure and smooth functionality.
 
-I’m always excited to learn and grow, which is why I’ve recently started diving into Shopify development. Exploring new technologies helps me expand my skill set and stay up to date in the fast-moving world of web development. I genuinely love learning new things, improving my craft, and challenging myself with fresh problems to solve.
+I’m always looking to grow as a developer, and recently I’ve started learning Shopify development to expand my skill set even further. I enjoy exploring new technologies, staying updated in the fast-moving tech world, and challenging myself with new problems.
 
-At the end of the day, I’m someone who enjoys creating, experimenting, and constantly leveling up as a developer.
+At my core, I’m someone who loves learning, experimenting, and turning ideas into real, functional projects.
 
 
 ## 🌐 Socials:
